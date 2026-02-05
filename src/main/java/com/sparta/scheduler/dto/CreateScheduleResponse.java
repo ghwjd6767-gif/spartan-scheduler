@@ -6,7 +6,7 @@ import java.time.LocalDateTime;
 
 @Getter
 public class CreateScheduleResponse {
-
+// 생성한 일정이 보여주는 값(응답)
     private final Long id;
     private final String title;
     private final String contents;
